@@ -8,15 +8,13 @@
 
 > Work-in-progress
 
-(badges)
+https://github.com/zenwave360/zenwave-code-generator
 
 ZenWave Code Generator is a configurable and extensible code generator tool for **Domain Driven Design (DDD)** and **API-First** that can generate code from a mix of different models including:
 
 - JHipster Domain Language (JDL)
 - AsyncAPI
 - OpenAPI
-
-https://github.com/zenwave360/zenwave-code-generator
 
 ## ZenWave Editor
 
