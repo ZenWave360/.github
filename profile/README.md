@@ -8,7 +8,7 @@
   - [ZenWave Code Generator](#zenwave-code-generator-) ![Alpha](https://img.shields.io/badge/lifecycle-alpha-yellow)
   - [ZenWave Editor](#zenwave-editor-) ![Comming Soon](https://img.shields.io/badge/lifecycle-Comming_Soon-lightgray)
     - [ZenWave KarateIDE for visual studio code](#zenwave-karateide-for-visual-studio-code-) ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
-    - [ZenWave ApiMock](#zenwave-apimock-for-rest-apis-) ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
+    - [ZenWave ApiMock for REST APIs](#zenwave-apimock-for-rest-apis-) ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
     - [Karate+OpenAPI PetStore Contract Testing complete source code](#karateopenapi-petstore-contract-testing-complete-source-code-)
   - [ZenWave API Registry](#zenwave-api-registry-) ![Comming Soon](https://img.shields.io/badge/lifecycle-Comming_Soon-lightgray)
 
