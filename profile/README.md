@@ -8,13 +8,13 @@
   - [ZenWave Code Generator](#zenwave-code-generator-) ![Alpha](https://img.shields.io/badge/lifecycle-alpha-yellow)
   - [ZenWave Editor](#zenwave-editor-) ![Comming Soon](https://img.shields.io/badge/lifecycle-Comming_Soon-lightgray)
     - [ZenWave KarateIDE for visual studio code](#zenwave-karateide-for-visual-studio-code-) ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
-    - [ZenWave ApiMock](#zenwave-apimock-) ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
+    - [ZenWave ApiMock](#zenwave-apimock-for-rest-apis-) ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
     - [Karate+OpenAPI PetStore Contract Testing complete source code](#karateopenapi-petstore-contract-testing-complete-source-code-)
   - [ZenWave API Registry](#zenwave-api-registry-) ![Comming Soon](https://img.shields.io/badge/lifecycle-Comming_Soon-lightgray)
 
 ## ZenWave Code Generator ![Alpha](https://img.shields.io/badge/lifecycle-alpha-yellow)
 
-[Zen Wave Code Generator](https://github.com/zenwave360/zenwave-code-generator)
+[Zen Wave Code Generator](https://zenwave360.github.io/zenwave-code-generator/)
 
 ZenWave Code Generator is a configurable and extensible code generator tool for **Domain Driven Design (DDD)** and **API-First** that can generate code from a mix of different models including:
 
@@ -43,7 +43,7 @@ ZenWave Code Generator is a configurable and extensible code generator tool for 
 
 KarateIDE is by far the best user experience for KarateDSL and Contract Testing!!
 
-### ZenWave ApiMock ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
+### ZenWave ApiMock for REST APIs ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
 
 [ZenWave ApiMock](https://github.com/ZenWave360/zenwave-apimock) - Where OpenAPI meets KarateDSL Server Side Features for REST API mocking:
 
