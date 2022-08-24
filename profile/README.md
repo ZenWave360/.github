@@ -15,8 +15,8 @@
     - [Karate+OpenAPI PetStore Contract Testing complete source code](#karateopenapi-petstore-contract-testing-complete-source-code-)
   - [ZenWave API Registry](#zenwave-api-registry-) ![Comming Soon](https://img.shields.io/badge/lifecycle-Comming_Soon-lightgray)
   - [Other useful projects](#other-useful-projects)
-    - [JSON Schema $Ref Parser for the JVM](#json-schema-ref-parser-for-the-jvm)
-    - [JHipster Domain Language (JDL) Wrapper for the JVM](#jhipster-domain-language-jdl-wrapper-for-the-jvm)
+    - [JSON Schema $Ref Parser for the JVM](#json-schema-ref-parser-for-the-jvm) ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
+    - [JHipster Domain Language (JDL) Wrapper for the JVM](#jhipster-domain-language-jdl-wrapper-for-the-jvm) ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
 
 ## ZenWave Code Generator ![Alpha](https://img.shields.io/badge/lifecycle-alpha-yellow)
 
@@ -81,10 +81,10 @@ You can find very detailed instructions at:
 
 ## Other useful projects
 
-### JSON Schema $Ref Parser for the JVM
+### JSON Schema $Ref Parser for the JVM ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
 
 [Parse, Resolve, and Dereference JSON Schema $ref pointers for JVM](https://zenwave360.github.io/json-schema-ref-parser-jvm/)
 
-### JHipster Domain Language (JDL) Wrapper for the JVM
+### JHipster Domain Language (JDL) Wrapper for the JVM ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
 
 [JHipster Domain Language (JDL) Wrapper for the JVM](https://github.com/ZenWave360/jdl-jvm)
