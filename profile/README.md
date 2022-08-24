@@ -2,7 +2,10 @@
 
 > Work-in-progress
 
-![ZenWave360 Landscape](ZenWave-360-Landscape.excalidraw.svg)
+<p align="center"  markdown="1">
+  <img src="ZenWave-360-Landscape-dark.svg#gh-dark-mode-only" alt="ZenWave360 Landscape" />
+  <img src="ZenWave-360-Landscape-light.svg#gh-light-mode-only" alt="ZenWave360 Landscape" />
+</p>
 
 - [ZenWave 360 - Landscape](#zenwave-360---landscape)
   - [ZenWave Code Generator](#zenwave-code-generator-) ![Alpha](https://img.shields.io/badge/lifecycle-alpha-yellow)
