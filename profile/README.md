@@ -1,11 +1,11 @@
-# ZenWave 360 - Landscape
-
 > Work-in-progress
 
 <p align="center"  markdown="1">
   <img src="ZenWave-360-Landscape-dark.svg#gh-dark-mode-only" alt="ZenWave360 Landscape" />
   <img src="ZenWave-360-Landscape-light.svg#gh-light-mode-only" alt="ZenWave360 Landscape" />
 </p>
+
+# ZenWave 360 - Landscape
 
 - [ZenWave 360 - Landscape](#zenwave-360---landscape)
   - [ZenWave Code Generator](#zenwave-code-generator-) ![Alpha](https://img.shields.io/badge/lifecycle-alpha-yellow)
@@ -14,6 +14,9 @@
     - [ZenWave ApiMock for REST APIs](#zenwave-apimock-for-rest-apis-) ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
     - [Karate+OpenAPI PetStore Contract Testing complete source code](#karateopenapi-petstore-contract-testing-complete-source-code-)
   - [ZenWave API Registry](#zenwave-api-registry-) ![Comming Soon](https://img.shields.io/badge/lifecycle-Comming_Soon-lightgray)
+  - [Other useful projects](#other-useful-projects)
+    - [JSON Schema $Ref Parser for the JVM](#json-schema-ref-parser-for-the-jvm)
+    - [JHipster Domain Language (JDL) Wrapper for the JVM](#jhipster-domain-language-jdl-wrapper-for-the-jvm)
 
 ## ZenWave Code Generator ![Alpha](https://img.shields.io/badge/lifecycle-alpha-yellow)
 
@@ -75,3 +78,13 @@ You can find very detailed instructions at:
   - API Test Coverage
   - Dependencies graph
   -
+
+## Other useful projects
+
+### JSON Schema $Ref Parser for the JVM
+
+[Parse, Resolve, and Dereference JSON Schema $ref pointers for JVM](https://zenwave360.github.io/json-schema-ref-parser-jvm/)
+
+### JHipster Domain Language (JDL) Wrapper for the JVM
+
+[JHipster Domain Language (JDL) Wrapper for the JVM](https://github.com/ZenWave360/jdl-jvm)
