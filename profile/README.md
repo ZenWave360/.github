@@ -8,7 +8,7 @@
 # ZenWave 360 - Landscape
 
 - ZenWave 360 - Landscape
-  - [ZenWave Code Generator](https://zenwave360.github.io/zenwave-code-generator/) ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
+  - [ZenWave Code Generator](https://zenwave360.github.io/zenwave-code-generator/) ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
   - [ZenWave Editor](#zenwave-editor) ![Comming Soon](https://img.shields.io/badge/lifecycle-Comming_Soon-lightgray)
     - [ZenWave KarateIDE for visual studio code](https://github.com/ZenWave360/karate-ide) ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
     - [ZenWave ApiMock for REST APIs](https://github.com/ZenWave360/zenwave-apimock) ![Beta](https://img.shields.io/badge/lifecycle-beta-red)
