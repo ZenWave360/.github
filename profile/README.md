@@ -22,9 +22,9 @@
 
 ![Comming Soon](https://img.shields.io/badge/lifecycle-Comming_Soon-lightgray)
 
-- ZenWave Visual Studio Code API Editor
-  - JDL Editor and visulizer
-  - OpenAPI/AsyncAPI visualizer
+- ZenWave Model Editor
+  - ZDL Editor and Visualizer
+  - OpenAPI/AsyncAPI Visualizer
   - Linting and Autofix
   - REST Client
 
