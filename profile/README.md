@@ -8,7 +8,7 @@
 # ZenWave 360 - Landscape
 
 - ZenWave 360 - Landscape
-  - [ZenWave 360º](https://zenwave360.github.io/) DDD and API-First tools for Event-Driven Microservices. ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
+  - [ZenWave 360º](https://zenwave360.github.io/) DDD and API-First for Event-Driven Microservices. ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
   - [ZenWave SDK](https://zenwave360.github.io/zenwave-sdk/) Configurable and extensible set of plugins for ZenWave 360º. ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
   - ZenWave Editors/IDEs
     - [ZenWave Model Editor (IntelliJ)](https://zenwave360.github.io/plugin/) ![alpha](https://img.shields.io/badge/lifecycle-alpha-red)
