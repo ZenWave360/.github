@@ -18,7 +18,8 @@
   - [ZenWave Model Catalog](#zenwave-model-catalog) ![Comming Soon](https://img.shields.io/badge/lifecycle-Comming_Soon-lightgray)
   - Other useful projects
     - [JSON Schema $Ref Parser for the JVM](https://zenwave360.github.io/json-schema-ref-parser-jvm/) ![Beta](https://img.shields.io/badge/lifecycle-beta-yellow)
-    - [ZenWave ZDL Domain Language](https://github.com/ZenWave360/zdl-jvm) ![Beta](https://img.shields.io/badge/lifecycle-beta-yellow)
+    - [ZenWave ZDL Domain Language](https://github.com/ZenWave360/zdl-jvm) ![GA](https://img.shields.io/badge/lifecycle-GA-green)
+    - [ZenWave Model Editor (VSCode)](https://github.com/ZenWave360/zdl-vscode) ![alpha](https://img.shields.io/badge/lifecycle-alpha-red)
     - [JHipster Domain Language (JDL) Wrapper for the JVM](https://github.com/ZenWave360/jdl-jvm) ![Beta](https://img.shields.io/badge/lifecycle-beta-yellow)
 
 ## ZenWave Model Catalog
