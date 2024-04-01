@@ -11,7 +11,7 @@
   - [ZenWave 360º](https://zenwave360.github.io/) DDD and API-First for Event-Driven Microservices. ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
   - [ZenWave SDK](https://zenwave360.github.io/zenwave-sdk/) Configurable and extensible set of plugins for ZenWave 360º. ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
   - ZenWave Editors/IDEs
-    - [ZenWave Model Editor (IntelliJ)](https://zenwave360.github.io/plugin/) ![alpha](https://img.shields.io/badge/lifecycle-alpha-red)
+    - [ZenWave Model Editor (IntelliJ)](https://zenwave360.github.io/plugin/) ![alpha](https://img.shields.io/badge/lifecycle-beta-yellow)
     - [ZenWave KarateIDE for visual studio code](https://github.com/ZenWave360/karate-ide) ![General Availability](https://img.shields.io/badge/lifecycle-GA-green)
     - [ZenWave ApiMock for REST APIs](https://github.com/ZenWave360/zenwave-apimock) ![Beta](https://img.shields.io/badge/lifecycle-beta-yellow)
     - [Karate+OpenAPI PetStore Contract Testing complete source code](https://github.com/ZenWave360/karate-openapi-petstore)
