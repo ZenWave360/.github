@@ -1,8 +1,8 @@
 > Work-in-progress
 
 <p align="center"  markdown="1">
-  <img src="ZenWave-360-ZDL-Landscape-dark.png#gh-dark-mode-only" alt="ZenWave360 Landscape" />
-  <img src="ZenWave-360-ZDL-Landscape-light.png#gh-light-mode-only" alt="ZenWave360 Landscape" />
+  <img src="../ZenWave-360-ZDL-Landscape-dark.png#gh-dark-mode-only" alt="ZenWave360 Landscape" />
+  <img src="../ZenWave-360-ZDL-Landscape-light.png#gh-light-mode-only" alt="ZenWave360 Landscape" />
 </p>
 
 # ZenWave 360 - Landscape
